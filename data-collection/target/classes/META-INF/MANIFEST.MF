@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+<<<<<<< HEAD
+Built-By: Dell
+Build-Jdk: 1.8.0_151
+=======
+Built-By: TRIPARNA
+Build-Jdk: 1.8.0_144
+>>>>>>> b6fb2d806843f6b4c03d62c32baa7044f3c900b8
+Created-By: Maven Integration for Eclipse
+
